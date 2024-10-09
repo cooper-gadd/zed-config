@@ -1,19 +1,52 @@
-# Zed Editor Configuration
+# 🚀 Zed Editor Configuration
 
 My personal configuration for the Zed editor.
 
-## Contents
+## 🤔 Why Zed?
 
-- Editor settings
-- Custom keybindings
-- Custom theme
+Zed changed my perspective on text editors. I used to be a die-hard VSCode fan, but I can't go back now.
 
-## Usage
+## ⚡ Zed is Fast
 
-Clone this repository and copy the contents to your Zed configuration directory.
+Zed spoils me. The only time I've ever experienced speed this drastic was when:
 
-## Updating
+1. I rode a motorcycle for the first time
+2. I switched from NPM to Bun
 
-Sync changes from your local Zed configuration back to this repository as needed.
+## 💡 Zed Made Me a Better Programmer
 
-Feel free to fork and modify for your own use!
+Zed doesn't have the same git integration as VSCode, so I had to learn how to use the command line.
+
+> I started out typing the full commands, and I did this for many months.
+
+Then I saw my friend use git shortcuts. This led to me configuring my `~/.zshrc` file. I didn't even know I could do that!
+
+From there, my need for customization grew:
+
+- I was always content with (mostly) default settings and themes
+- I discovered that I could create my own theme in Zed!
+- I learned that I could customize my settings in Zed!
+- All I need to do is edit a JSON file!
+
+## 🛠️ Configuration People Are Not Crazy
+
+I used to think that people who tweak their Neovim configuration were crazy. I thought that they were wasting their time.
+
+**I was wrong. I was so wrong.**
+
+*This is a lot of fun.*
+
+---
+
+<details>
+<summary>📚 Quick Zed Commands (VSCode Base Keymap)</summary>
+
+- `Cmd+P` - search and open files
+- `Cmd+Shift+P` - access the command palette
+- `Cmd+Shift+F` - project search (insanely fast)
+- `Cmd+Shift+J` - open terminal
+- `Cmd+Shift+B` - open the file explorer
+- `Cmd+Shift+O` - search the buffer symbols
+- `Cmd+:` - hide line numbers
+
+</details>
