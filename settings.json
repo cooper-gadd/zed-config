@@ -1,0 +1,51 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run the `open default settings` command
+// from the command palette or from `Zed` application menu.
+{
+  "assistant": {
+    "default_model": {
+      "provider": "zed.dev",
+      "model": "claude-3-5-sonnet-20240620"
+    },
+    "version": "2"
+  },
+  "theme": {
+    "mode": "system",
+    "light": "Nebula Light",
+    "dark": "Nebula Dark"
+  },
+  "ui_font_size": 16,
+  "buffer_font_size": 16,
+  "base_keymap": "VSCode",
+  "cursor_shape": "bar",
+  "autosave": "on_focus_change",
+  "tab_size": 2,
+  "show_completions_on_input": true,
+  "scrollbar": {
+    "show": "never"
+  },
+  "project_panel": {
+    "scrollbar": {
+      "show": "never"
+    }
+  },
+  "tabs": {
+    "file_icons": true,
+    "git_status": true
+  },
+  "gutter": {
+    "code_actions": false,
+    "runnables": false,
+    "folds": false
+  },
+  "inlay_hints": {
+    "enabled": true,
+    "show_parameter_hints": false,
+    "show_type_hints": false
+  }
+}
