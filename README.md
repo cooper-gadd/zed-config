@@ -49,7 +49,7 @@ I'm debating this... Maybe I'll try it out sometime.
 - `Cmd+Shift+P` - access the command palette
 - `Cmd+Shift+F` - project search (insanely fast)
 - `Cmd+Shift+J` - open terminal
-- `Cmd+Shift+B` - open the file explorer
+- `Cmd+Shift+E` - open the file explorer
 - `Cmd+Shift+O` - search the buffer symbols
 - `Cmd+:` - hide line numbers
 - `Cmd+Option+[` - fold code
