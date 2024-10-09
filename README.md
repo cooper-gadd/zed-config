@@ -13,7 +13,7 @@ Zed spoils me. The only time I've ever experienced speed this drastic was when:
 1. I rode a motorcycle for the first time
 2. I switched from NPM to Bun
 
-## Zed Made Me a Better Programmer
+## Zed Made Me a Learn Git Commands
 
 Zed doesn't have the same git integration as VSCode, so I had to learn how to use the command line.
 
