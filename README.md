@@ -36,6 +36,10 @@ I used to think that people who tweak their Neovim configuration were crazy. I t
 
 *This is a lot of fun.*
 
+## Vim Mode
+
+I'm debating this... Maybe I'll try it out sometime.
+
 ---
 
 <details>
