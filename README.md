@@ -52,5 +52,7 @@ I'm debating this... Maybe I'll try it out sometime.
 - `Cmd+Shift+B` - open the file explorer
 - `Cmd+Shift+O` - search the buffer symbols
 - `Cmd+:` - hide line numbers
+- `Cmd+Option+[` - fold code
+- `Cmd+Option+]` - unfold code
 
 </details>
