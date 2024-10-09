@@ -39,7 +39,7 @@ I used to think that people who tweak their Neovim configuration were crazy. I t
 ---
 
 <details>
-<summary>Quick Zed Commands (VSCode Base Keymap)</summary>
+<summary>Favorite Zed Commands (VSCode Base Keymap)</summary>
 
 - `Cmd+P` - search and open files
 - `Cmd+Shift+P` - access the command palette
