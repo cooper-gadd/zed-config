@@ -1,19 +1,19 @@
-# 🚀 Zed Editor Configuration
+# Zed Editor Configuration
 
 My personal configuration for the Zed editor.
 
-## 🤔 Why Zed?
+## Why Zed?
 
 Zed changed my perspective on text editors. I used to be a die-hard VSCode fan, but I can't go back now.
 
-## ⚡ Zed is Fast
+## Zed is Fast
 
 Zed spoils me. The only time I've ever experienced speed this drastic was when:
 
 1. I rode a motorcycle for the first time
 2. I switched from NPM to Bun
 
-## 💡 Zed Made Me a Better Programmer
+## Zed Made Me a Better Programmer
 
 Zed doesn't have the same git integration as VSCode, so I had to learn how to use the command line.
 
@@ -28,7 +28,7 @@ From there, my need for customization grew:
 - I learned that I could customize my settings in Zed!
 - All I need to do is edit a JSON file!
 
-## 🛠️ Configuration People Are Not Crazy
+## Configuration People Are Not Crazy
 
 I used to think that people who tweak their Neovim configuration were crazy. I thought that they were wasting their time.
 
@@ -39,7 +39,7 @@ I used to think that people who tweak their Neovim configuration were crazy. I t
 ---
 
 <details>
-<summary>📚 Quick Zed Commands (VSCode Base Keymap)</summary>
+<summary>Quick Zed Commands (VSCode Base Keymap)</summary>
 
 - `Cmd+P` - search and open files
 - `Cmd+Shift+P` - access the command palette
