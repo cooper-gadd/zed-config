@@ -7,6 +7,9 @@
 // custom settings, run the `open default settings` command
 // from the command palette or from `Zed` application menu.
 {
+  "vim_mode": true,
+  "relative_line_numbers": true,
+  "command_aliases": {},
   "assistant": {
     "default_model": {
       "provider": "copilot_chat",
