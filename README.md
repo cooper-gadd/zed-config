@@ -38,7 +38,7 @@ I used to think that people who tweak their Neovim configuration were crazy. I t
 
 ## Vim Mode
 
-I'm debating this... Maybe I'll try it out sometime.
+Okay, I've seen the light. I'm not going to go full Vim, but I'm going to use Vim mode in Zed.
 
 ---
 
