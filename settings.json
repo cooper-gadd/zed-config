@@ -49,6 +49,7 @@
     "runnables": false,
     "folds": false
   },
+  "hover_popover_enabled": false,
   "inlay_hints": {
     "enabled": true,
     "show_parameter_hints": false,
