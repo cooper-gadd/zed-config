@@ -32,9 +32,6 @@
   "autosave": "on_focus_change",
   "tab_size": 2,
   "show_completions_on_input": true,
-  "scrollbar": {
-    "show": "never"
-  },
   "project_panel": {
     "scrollbar": {
       "show": "never"
