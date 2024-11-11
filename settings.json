@@ -50,5 +50,10 @@
     "enabled": false,
     "show_parameter_hints": false,
     "show_type_hints": false
+  },
+  "languages": {
+    "CSharp": {
+      "tab_size": 4
+    }
   }
 }
