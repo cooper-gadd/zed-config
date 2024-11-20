@@ -13,7 +13,7 @@
   "assistant": {
     "default_model": {
       "provider": "copilot_chat",
-      "model": "o1-preview"
+      "model": "claude-3-5-sonnet"
     },
     "version": "2"
   },
@@ -51,6 +51,7 @@
     "show_parameter_hints": false,
     "show_type_hints": false
   },
+  "show_signature_help_after_edits": false,
   "languages": {
     "CSharp": {
       "tab_size": 4
