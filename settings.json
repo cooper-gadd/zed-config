@@ -55,6 +55,9 @@
   "languages": {
     "CSharp": {
       "tab_size": 4
+    },
+    "Rust": {
+      "tab_size": 4
     }
   }
 }
