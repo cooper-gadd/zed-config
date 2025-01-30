@@ -7,20 +7,20 @@
 // custom settings, run the `open default settings` command
 // from the command palette or from `Zed` application menu.
 {
-  "vim_mode": true,
-  "relative_line_numbers": true,
+  "vim_mode": false,
+  "relative_line_numbers": false,
   "command_aliases": {},
   "assistant": {
     "default_model": {
-      "provider": "copilot_chat",
-      "model": "claude-3-5-sonnet"
+      "provider": "zed.dev",
+      "model": "claude-3-5-sonnet-latest"
     },
     "version": "2"
   },
   "theme": {
     "mode": "system",
     "light": "Nebula Light",
-    "dark": "Gruvbox Dark Hard"
+    "dark": "Catppuccin Macchiato"
   },
   "ui_font_size": 16,
   "buffer_font_size": 16,
@@ -53,11 +53,24 @@
   },
   "show_signature_help_after_edits": false,
   "languages": {
+    "JavaScript": {
+      "show_inline_completions": true
+    },
     "CSharp": {
+      "show_inline_completions": true,
       "tab_size": 4
     },
     "Rust": {
       "tab_size": 4
+    },
+    "Zig": {
+      "tab_size": 4
     }
+  },
+  "code_actions_on_format": {
+    "source.organizeImports": true
+  },
+  "features": {
+    "inline_completion_provider": "zed"
   }
 }
