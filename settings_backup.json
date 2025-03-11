@@ -54,10 +54,10 @@
   "show_signature_help_after_edits": false,
   "languages": {
     "JavaScript": {
-      "show_edit_predictions": true
+      "show_inline_completions": true
     },
     "CSharp": {
-      "show_edit_predictions": true,
+      "show_inline_completions": true,
       "tab_size": 4
     },
     "Rust": {
@@ -75,6 +75,6 @@
     "source.organizeImports": true
   },
   "features": {
-    "edit_prediction_provider": "zed"
+    "inline_completion_provider": "zed"
   }
 }
